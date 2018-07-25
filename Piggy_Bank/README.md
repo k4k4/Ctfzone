@@ -1,7 +1,8 @@
 
 URL:  http://web-05.v7frkwrfyhsjtbpfcppnu.ctfz.one/</br>
+</br>
 Đầu tiên ta cần tạo một tài khoảng và login vào</br>
-Tại VIP : "This section is available only to privileged pigs with money in pockets. Transfer to the piggy-bank 1 000 000 coins and become important."</br>
+Tại VIP : `"This section is available only to privileged pigs with money in pockets. Transfer to the piggy-bank 1 000 000 coins and become important."`</br>
 ![1](https://user-images.githubusercontent.com/23306492/43188979-b23d15d4-901f-11e8-9dac-2090b0566b3f.png)</br>
 Trong khi ta chỉ có `110 `</br>
 ![2](https://user-images.githubusercontent.com/23306492/43189089-fc26109c-901f-11e8-880e-0d993ad51eaa.png)</br>
