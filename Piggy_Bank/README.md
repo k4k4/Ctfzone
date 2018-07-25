@@ -58,7 +58,7 @@ Tại tab `For Developers` ta thấy `<!-- Link to the API (http://web-05.v7frkw
 ```
 Sử dụng Wsdler </br>
 ![6](https://user-images.githubusercontent.com/23306492/43189565-0bbb77e4-9021-11e8-8fdf-9e07d176ae35.png)</br>
-Sử dụng SOAP INJECTION VULNERABILITY để tấn công [link](http://riseandhack.blogspot.com/2015/02/xml-injection-soap-injection-notes.html)
+Sử dụng SOAP INJECTION VULNERABILITY để tấn công http://riseandhack.blogspot.com/2015/02/xml-injection-soap-injection-notes.html
 ```
 import requests
 url1 = "http://web-05.v7frkwrfyhsjtbpfcppnu.ctfz.one/auth.php"
